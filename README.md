@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <h1>What we went over in computer applications this week</h1>
+    <title>weekly computer applications lessons </title>
+    </head>
+
+    <body>
+<h3>
+    <ul>
+    <li>types of threat: skillstruck <li>ordered lists: skillstruck <li>unordered lists: skillstruck <li>canva comic strips <li>two page typing test</h3>
+    <footer>
+        <h1>RESEARCH PAPER IS PAST DUE!</h1>
+        <h1>next week we will go over</h1>
+        <h3>
+            <ul>
+
+            <li>programming languages</li> <li>text alignment</li> <li>links</li>
+</html>
